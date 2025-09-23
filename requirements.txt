@@ -1,0 +1,25 @@
+# CIS545-group-project
+
+# Usage: pip install -r requirements.txt
+# Recommended to use a virtual environment (venv)
+
+# Core Libraries
+numpy
+pandas
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Modeling
+pysyncon
+
+# Notebook & Interactive Environments
+jupyter
+ipykernel
+notebook
+
+# R
+rpy2 # Requires an R installationpysyncon
