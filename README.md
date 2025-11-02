@@ -1,6 +1,6 @@
 # 🌍 Temperature Data Mining: WWII Case Study (Germany & Japan)
 
-> **Portfolio Edition** — Public-facing version (no contributor names or course references).  
+> **Portfolio Edition** 
 > A data analytics and causal inference study on whether **World War II human activities** (e.g., urban destruction, industrial shifts) left **measurable signals** in historical **Earth surface temperature** records.
 
 ---
